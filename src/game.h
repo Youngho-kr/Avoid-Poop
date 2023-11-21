@@ -5,6 +5,7 @@
 #include <iostream>
 #include "ncurses.h"
 #include "curses.h"
+#include "player.h"
 
 /* Macros */
 /* Select Menu */

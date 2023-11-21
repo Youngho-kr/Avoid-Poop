@@ -2,7 +2,7 @@
 
 Game::Game() {
     /* Init game */
-    cout << "Init Game" << endl;
+    cout << "Thanks for Playing!!" << endl;
     initGame();
 }
 
@@ -101,7 +101,7 @@ bool Game::selectOption() {
 }
 
 void Game::play() {
-
+    
 }
 
 void Game::score() {
